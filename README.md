@@ -1,4 +1,4 @@
-# Localbitcoin-API-Using-PHP
+# Localbitcoin-API-Integration-Using-PHP
 Get Localbitcoin(LBC) API data using PHP with cURL
 
 
